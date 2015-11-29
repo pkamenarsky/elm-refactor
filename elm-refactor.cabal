@@ -19,7 +19,7 @@ executable elm-refactor
   -- main-is:             
   -- other-modules:       
   other-extensions:    OverloadedStrings, FlexibleContexts, MultiParamTypeClasses, ScopedTypeVariables
-  build-depends:       base >=4.7 && <4.8,
+  build-depends:       base >=4.8 && <4.9,
                        elm-compiler == 0.16
   -- hs-source-dirs:      
   default-language:    Haskell2010
